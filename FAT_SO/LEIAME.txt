@@ -1,0 +1,1 @@
+gcc sistema.c estrutura.h main.c -o sistema
